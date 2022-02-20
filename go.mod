@@ -1,4 +1,4 @@
-module cpu-monitor
+module github.com/brentshierk/cpu-monitor
 
 go 1.17
 

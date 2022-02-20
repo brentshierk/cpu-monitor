@@ -20,6 +20,6 @@
  "Platform": "",
  "Architecture": "",
  "LdFlags": "",
- "GoPath": "",
+ "GoPath": "/Users/brentshierk/go",
  "UseFirebug": false
 }

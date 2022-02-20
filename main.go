@@ -2,9 +2,10 @@ package main
 
 import (
   _ "embed"
+
+  "github.com/brentshierk/cpu-monitor/pkg/sys"
   "github.com/leaanthony/mewn"
   "github.com/wailsapp/wails"
-  "github.com/brentshierk/cpu-monitor-binary/pkg/sys"
 )
 
 var (
